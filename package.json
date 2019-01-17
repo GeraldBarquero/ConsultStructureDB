@@ -1,0 +1,11 @@
+{
+  "name": "consultstructuredb",
+  "version": "1.0.0",
+  "description": "Aplicación para consultar la estructura de una base de datos, sus esquemas, tablas y campos respectivos.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
